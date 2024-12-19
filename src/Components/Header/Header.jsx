@@ -9,7 +9,7 @@ const Header = () => {
         <img src="./src/assets/sjce-logo.png" alt="Logo" className={headerCSS.logo} style={{ width: '70px', borderRadius: '50%' }} />
         <div>
           <h2>St. Joseph's College of Engineering</h2>
-          <p>( An Autonomous Institution )</p>
+          <p style={{textAlign:'center'}}>( An Autonomous Institution )</p>
         </div>
       </div>
 
